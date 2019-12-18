@@ -6,6 +6,8 @@ const provider = new HDWalletProvider(
   'high defense decorate object ice stumble north poet super vague aim cage',
   'https://rinkeby.infura.io/orDImgKRzwNrVCDrAk5Q'
 );
+////////////////////
+console.log("sdasd");
 const web3 = new Web3(provider);
 
 const sanket = async () => {
